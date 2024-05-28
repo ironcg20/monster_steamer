@@ -378,10 +378,12 @@ nav .nav-links li a:hover {
 
 .carousel-item-custom {
     width: 288px;
+    /* height: 208px; */
 }
 
 .carousel-item-custom img {
     width: 100%;
+    height: 208px;
     border-radius: 8px;
 }
 
